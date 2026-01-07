@@ -11,7 +11,7 @@
   },
   "tagline": "Some hostels are a bargain. Others cost you your life.",
   "synopsis": {
-    "short": "",
+    "short": "A curious amateur spy novelist stumbles upon a genuine intelligence operation at a Prague hostel and is eliminated to protect state secrets he never actually understood.",
     "long": ""
   },
   "death_type": "Intelligence Witness",
@@ -29,5 +29,6 @@
     "google_play": "",
     "audible": "",
     "kobo": ""
-  }
+  },
+  "death_teaser": "He always wanted to write spy thrillers. He never wanted to live one."
 }
